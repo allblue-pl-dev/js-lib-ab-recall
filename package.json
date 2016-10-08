@@ -1,0 +1,25 @@
+{
+  "name": "ab-recall",
+  "version": "0.0.1",
+  "keywords": [
+    "ab, allblue, recall"
+  ],
+  "main": "index.js",
+  "dependencies": {
+  },
+  "description": "Library for preventing running same function multiple times in a short period of time.",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allblue-pl/js-lib-ab-recall.git"
+  },
+  "author": "Jakub Zolcik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allblue-pl/js-lib-ab-recall/issues"
+  },
+  "homepage": "https://github.com/allblue-pl/js-lib-ab-recall#readme"
+}
